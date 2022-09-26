@@ -2,9 +2,9 @@
 name = "discodump"
 version = "0.0.0"
 description = "A Tauri App"
-authors = ["you"]
-license = ""
-repository = ""
+authors = ["Igor Spichkin"]
+license = "MIT"
+repository = "https://github.com/igorsaux/discodump/"
 edition = "2021"
 rust-version = "1.57"
 
